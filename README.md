@@ -1,4 +1,4 @@
-#CrimiScan: CCTV Crime Detection & Recognition
+# CrimiScan: CCTV Crime Detection & Recognition
 In numerous instances, surveillance recordings capture criminals, yet due to technological limitations and manpower shortages, authorities remain unaware of these sightings, allowing wanted individuals to evade justice.
 
 Our solution addresses this critical issue with the following features:
